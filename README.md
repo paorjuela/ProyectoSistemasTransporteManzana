@@ -67,5 +67,5 @@ Favor de no usar un formato pregunta-respuesta
 ¿Qué consideraciones éticas conlleva el análisis y explotación de dichos datos? 
 
 * **El problema del tiempo:** La última actualización de los datos fue en 2022, el mapa podría decir que en una zona no vive nadie, cuando, en la actualidad, ya podría tener gente.
-* **Privacidad:** Hay manzanas con muy poquita población (ej. 3 personas). Con la `CVEGEO` se podría ubicar fácilmente a familias específicas, lo cual podría ser un riesgo de privacidad si cruzamos esto con datos socioeconómicos.
+* **Privacidad:** Hay manzanas con muy poquita población (ej. 3 personas). Con la `CVEGEO` se podría ubicar a familias específicas, lo cual podría ser un riesgo de privacidad si cruzamos esto con datos socioeconómicos.
 * **¿Qué cuenta como transporte?:** La variable `T_Concesio` mete en un mismo saco a muchos tipos de transporte. Además, si el dataset ignora el transporte informal (taxis pirata, bicitaxis), algunas zonas se verán más "aisladas" de lo que realmente están.
