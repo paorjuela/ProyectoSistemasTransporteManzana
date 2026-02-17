@@ -1,4 +1,4 @@
-# Análisis de Movilidad en la Zona Metropolitana del Valle de México.
+# Análisis de movilidad en la zona metropolitana del Valle de México.
 
 Estamos trabajando con el dataset **"Número de sistemas de transporte disponibles por manzana"**, para entender la desigualdad en la movilidad urbana.
 
