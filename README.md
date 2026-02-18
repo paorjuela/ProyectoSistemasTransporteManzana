@@ -22,7 +22,7 @@ Favor de no usar un formato pregunta-respuesta
 - ¿Con qué frecuencia se actualizan?
    aaaaaaaaaaaaaa
 
-## 2. Caracteristicas de los Datos
+## 2. Caracteristicas de los datos
 
 Favor de no usar un formato pregunta-respuesta
 - ¿Cuántas tuplas y cuántos atributos tiene el set de datos?
@@ -30,7 +30,7 @@ Favor de no usar un formato pregunta-respuesta
 * **Volumen:** a registros (Tuplas).
 * **Dimensiones:** a columnas (Atributos).
 
-## 3. Diccionario de Datos 
+## 3. Diccionario de datos 
 Favor de no usar un formato pregunta-respuesta
 - ¿Qué significa cada atributo del set?
 - ¿Qué atributos son numéricos?
@@ -56,13 +56,13 @@ desglose de cada columna:
 * **Categóricos:** `a` a.
 * **Temporales:** **Ninguno.** lol.
 
-## 5. Objetivo del Proyecto 
+## 4. Objetivo del proyecto 
 Favor de no usar un formato pregunta-respuesta
 - ¿Cuál es el objetivo buscado con el set de datos? ¿Para qué se usará por el
 equipo?
 
 
-## 6. Consideraciones Éticas 
+## 5. Consideraciones éticas 
 Favor de no usar un formato pregunta-respuesta
 ¿Qué consideraciones éticas conlleva el análisis y explotación de dichos datos? 
 
